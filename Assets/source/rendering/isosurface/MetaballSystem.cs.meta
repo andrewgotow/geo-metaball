@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab00977973ad449a4aa429560bf2b289
+timeCreated: 1486595195
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - metaballPrepassMaterial: {fileID: 2100000, guid: 8a2dd4d1fd9da4f348caab6992482902,
+      type: 2}
+  - metaballMaterial: {fileID: 2100000, guid: 8759f09efc2f5464eae52f3f8f11dd35, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
